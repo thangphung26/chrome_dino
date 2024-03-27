@@ -1,6 +1,3 @@
-"""
-@tác giả: Việt Nguyễn <nhviet1009@gmail.com>
-"""
 import argparse
 import torch
 
